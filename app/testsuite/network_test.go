@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/regen-network/regen-ledger/types/testutil/network"
-	"github.com/regen-network/regen-ledger/v3/app/testsuite"
+	"github.com/MonCatCat/regen-ledger/v3/app/testsuite"
 	"github.com/stretchr/testify/suite"
 )
 
